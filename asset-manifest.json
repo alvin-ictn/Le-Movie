@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/Le-Movie/static/css/main.993147d6.chunk.css",
-    "main.js": "/Le-Movie/static/js/main.7c0148b1.chunk.js",
-    "main.js.map": "/Le-Movie/static/js/main.7c0148b1.chunk.js.map",
+    "main.css": "/Le-Movie/static/css/main.206a7056.chunk.css",
+    "main.js": "/Le-Movie/static/js/main.ec9532f3.chunk.js",
+    "main.js.map": "/Le-Movie/static/js/main.ec9532f3.chunk.js.map",
     "runtime-main.js": "/Le-Movie/static/js/runtime-main.8053b057.js",
     "runtime-main.js.map": "/Le-Movie/static/js/runtime-main.8053b057.js.map",
-    "static/css/2.d9ad5f5c.chunk.css": "/Le-Movie/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.311a017b.chunk.js": "/Le-Movie/static/js/2.311a017b.chunk.js",
-    "static/js/2.311a017b.chunk.js.map": "/Le-Movie/static/js/2.311a017b.chunk.js.map",
+    "static/css/2.2a86faee.chunk.css": "/Le-Movie/static/css/2.2a86faee.chunk.css",
+    "static/js/2.1624a30d.chunk.js": "/Le-Movie/static/js/2.1624a30d.chunk.js",
+    "static/js/2.1624a30d.chunk.js.map": "/Le-Movie/static/js/2.1624a30d.chunk.js.map",
     "index.html": "/Le-Movie/index.html",
-    "precache-manifest.37bdd789c13d95ed10f2565edfcac172.js": "/Le-Movie/precache-manifest.37bdd789c13d95ed10f2565edfcac172.js",
+    "precache-manifest.7821dd0a59cfdafc0ce41a95d857a1ff.js": "/Le-Movie/precache-manifest.7821dd0a59cfdafc0ce41a95d857a1ff.js",
     "service-worker.js": "/Le-Movie/service-worker.js",
-    "static/css/2.d9ad5f5c.chunk.css.map": "/Le-Movie/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.993147d6.chunk.css.map": "/Le-Movie/static/css/main.993147d6.chunk.css.map",
-    "static/js/2.311a017b.chunk.js.LICENSE.txt": "/Le-Movie/static/js/2.311a017b.chunk.js.LICENSE.txt",
+    "static/css/2.2a86faee.chunk.css.map": "/Le-Movie/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.206a7056.chunk.css.map": "/Le-Movie/static/css/main.206a7056.chunk.css.map",
+    "static/js/2.1624a30d.chunk.js.LICENSE.txt": "/Le-Movie/static/js/2.1624a30d.chunk.js.LICENSE.txt",
     "static/media/Logo.svg": "/Le-Movie/static/media/Logo.2ab4a7df.svg",
+    "static/media/googleplay.png": "/Le-Movie/static/media/googleplay.db9b21a1.png",
     "static/media/thumbnail.jpg": "/Le-Movie/static/media/thumbnail.70a72a7f.jpg",
     "static/media/user.jpg": "/Le-Movie/static/media/user.3551c8a8.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8053b057.js",
-    "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.311a017b.chunk.js",
-    "static/css/main.993147d6.chunk.css",
-    "static/js/main.7c0148b1.chunk.js"
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.1624a30d.chunk.js",
+    "static/css/main.206a7056.chunk.css",
+    "static/js/main.ec9532f3.chunk.js"
   ]
 }
